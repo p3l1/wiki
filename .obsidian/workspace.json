@@ -1,0 +1,197 @@
+{
+  "main": {
+    "id": "bcfffada27b00cdd",
+    "type": "split",
+    "children": [
+      {
+        "id": "12ed6efb3ce42650",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8e20e6d4c3878de4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "README.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "e0b75cf802895d6b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "setup/README.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "40aa8304ddf274db",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "setup/Hardware.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "6eb516245c308f22",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "setup/Security.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "f536b01830b562f6",
+    "type": "split",
+    "children": [
+      {
+        "id": "22691be55f07edb6",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8bf70f4c9d28372b",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "f15da234bec7a0c3",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "411fa08cf1c65d6b",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "a7b5718684be050e",
+    "type": "split",
+    "children": [
+      {
+        "id": "eaea8ab6c79010eb",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5c0a07c4d3dbf358",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "setup/Security.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "b0f74b6935dce153",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "setup/Security.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "77b4512dbc6c1366",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "3e8a09d298fa1d2c",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "setup/Security.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "markdown-importer:Open format converter": false,
+      "random-note:Open random note": false
+    }
+  },
+  "active": "6eb516245c308f22",
+  "lastOpenFiles": [
+    "guides/GPG.md",
+    "setup/Security.md",
+    "setup/Hardware.md",
+    "setup/README.md",
+    "README.md",
+    "Untitled.canvas",
+    "test.md"
+  ]
+}
