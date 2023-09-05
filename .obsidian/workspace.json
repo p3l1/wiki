@@ -4,47 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "12ed6efb3ce42650",
+        "id": "6b3fa7df4ed92546",
         "type": "tabs",
         "children": [
           {
-            "id": "8e20e6d4c3878de4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "README.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "e0b75cf802895d6b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "setup/README.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "40aa8304ddf274db",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "setup/Hardware.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "6eb516245c308f22",
+            "id": "43ee59b91e085049",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -55,8 +19,7 @@
               }
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -184,13 +147,13 @@
       "random-note:Open random note": false
     }
   },
-  "active": "6eb516245c308f22",
+  "active": "43ee59b91e085049",
   "lastOpenFiles": [
+    "README.md",
+    "setup/README.md",
+    "setup/Hardware.md",
     "guides/GPG.md",
     "setup/Security.md",
-    "setup/Hardware.md",
-    "setup/README.md",
-    "README.md",
     "Untitled.canvas",
     "test.md"
   ]
