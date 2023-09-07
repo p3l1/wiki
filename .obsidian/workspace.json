@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "setup/Security.md",
+                "file": "guides/GPG.md",
                 "mode": "source",
                 "source": false
               }
@@ -64,6 +64,14 @@
               "type": "starred",
               "state": {}
             }
+          },
+          {
+            "id": "195fd4cb4ba210f2",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
           }
         ]
       }
@@ -85,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "setup/Security.md",
+                "file": "guides/GPG.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "setup/Security.md",
+                "file": "guides/GPG.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "setup/Security.md"
+                "file": "guides/GPG.md"
               }
             }
           }
@@ -149,11 +157,12 @@
   },
   "active": "43ee59b91e085049",
   "lastOpenFiles": [
+    "security/README.md",
+    "guides/GPG.md",
+    "setup/Security.md",
     "README.md",
     "setup/README.md",
     "setup/Hardware.md",
-    "guides/GPG.md",
-    "setup/Security.md",
     "Untitled.canvas",
     "test.md"
   ]
