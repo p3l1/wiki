@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "6b3fa7df4ed92546",
+        "id": "535ee1bbb8b6d7c6",
         "type": "tabs",
         "children": [
           {
-            "id": "43ee59b91e085049",
+            "id": "40cffa7fafd5b24e",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "guides/GPG.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -77,7 +73,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "a7b5718684be050e",
@@ -93,7 +90,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "guides/GPG.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +106,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "guides/GPG.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -132,9 +127,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "guides/GPG.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -155,15 +148,16 @@
       "random-note:Open random note": false
     }
   },
-  "active": "43ee59b91e085049",
+  "active": "40cffa7fafd5b24e",
   "lastOpenFiles": [
-    "security/README.md",
     "guides/GPG.md",
+    "security/README.md",
     "setup/Security.md",
-    "README.md",
     "setup/README.md",
-    "setup/Hardware.md",
+    "Untitled 1.canvas",
     "Untitled.canvas",
+    "setup/Hardware.md",
+    "README.md",
     "test.md"
   ]
 }

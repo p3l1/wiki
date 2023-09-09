@@ -2,5 +2,8 @@
   "promptDelete": false,
   "showLineNumber": true,
   "attachmentFolderPath": "attachments",
-  "showUnsupportedFiles": true
+  "showUnsupportedFiles": true,
+  "readableLineLength": false,
+  "propertiesInDocument": "visible",
+  "foldHeading": true
 }
