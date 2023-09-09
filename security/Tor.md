@@ -23,7 +23,7 @@ To use TOR with `ssh` add the following bit to you `~/.ssh/config
 
 ```config
 Host tor
-	HostName <address>.onion
+    HostName <address>.onion
     ProxyCommand socat STDIO SOCKS4A:127.0.0.1:%h:%p,socksport=9050
 ```
 
