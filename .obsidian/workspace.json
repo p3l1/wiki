@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "security/Tor.md",
+                "file": "guides/Miscellaneous.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "security/Tor.md",
+                "file": "guides/Miscellaneous.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "security/Tor.md",
+                "file": "guides/Miscellaneous.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "security/Tor.md"
+                "file": "guides/Miscellaneous.md"
               }
             }
           }
@@ -157,8 +157,9 @@
   },
   "active": "40cffa7fafd5b24e",
   "lastOpenFiles": [
-    "security/README.md",
     "security/Tor.md",
+    "guides/Miscellaneous.md",
+    "security/README.md",
     "guides/GPG.md",
     "setup/Security.md",
     "setup/README.md",
