@@ -50,6 +50,8 @@ Configure Firefox to use `localhost:1337` as a SOCKS5 proxy and also tunnel DNS 
 
 Now all our internal hosts, which are reachable from `tor`, can be accessed from Firefox by their respective URLs and domain names.
 
+*Maybe for future use: [Start Firefox with Proxy configuration](https://apple.stackexchange.com/questions/234016/change-firefox-proxy-from-terminal)
+
 ### Increase usability
 
 Due to the `-f` flag the `ssh` process is running in the background. To easily control the connection were adding the following options to our `~/.ssh/config` file
